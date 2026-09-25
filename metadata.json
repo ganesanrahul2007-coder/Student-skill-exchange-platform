@@ -1,0 +1,6 @@
+{
+  "name": "Student Skill Exchange Platform",
+  "description": "Peer-to-peer college skill exchange platform featuring smart matching, active exchanges, review system, and SkillMate AI RAG assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
